@@ -4,7 +4,7 @@
 # url: http://localhost:4000
 # baseurl: ""
 url: http://infphilo.github.io
-baseurl: /test2
+baseurl: /test
 title: HISAT2
 description: Some descriptions of yourself.
 avatar: /assets/img/ogp.png
